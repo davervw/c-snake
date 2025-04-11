@@ -12,6 +12,6 @@ Instructions:
 
 * Use Z to turn left from perspective of snake
 * Use / to turn right from perspective of snake
-* Can also use cursor keys, but have to use SHIFT
+* Can also use cursor keys, but have to use with SHIFT to turn left
 
 ![screenshot](media/snake.png)

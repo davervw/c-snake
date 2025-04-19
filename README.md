@@ -1,6 +1,6 @@
 # Snake for Commodore #
 
-This is the classic snake game currently written to target Commodore Vic-20 and Commodore 64
+This is the classic snake game currently written to target Commodore computers: Vic-20, 64, Plus/4, 16
 
 Programmed in Commodore BASIC, pokes(peeks) to(from) screen/color memory
 

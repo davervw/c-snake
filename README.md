@@ -4,6 +4,8 @@ This is the classic snake game currently written to target Commodore computers: 
 
 Programmed in Commodore BASIC, pokes(peeks) to(from) screen/color memory
 
+Blog entry: [Snake for Commodore PET, Vic-20, 64, 16, Plus/4, etc.](https://techwithdave.davevw.com/2025/04/snake-for-commodore-vic-20.html)
+
 PRG and D64 files are included
 
 MIT License

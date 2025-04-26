@@ -12,6 +12,7 @@ MIT License
 
 Instructions:
 
+* RETURN (or Joystick fire) to pause the game, press again to resume
 * Use Z to turn left from perspective of snake
 * Use / to turn right from perspective of snake
 * Can also use cursor keys, but have to use with SHIFT to turn left

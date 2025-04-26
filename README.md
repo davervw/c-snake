@@ -22,7 +22,7 @@ Instructions:
 Compatibility:
   
 * SNAKE20 runs on all Vic-20 RAM sizes (5K to 40K), including two different screen/color memory addresses.
-* SNAKEPET should run on most PET models, 40 column and 80 column, with 8K RAM or more (also runs on C64 for green on black nostalgia; also runs on Plus/4, 16, etc. recommend COLOR 0,1,1 : COLOR 4,1,1: COLOR 1,6,6 : REM for green on black)
+* SNAKEPET should run on most PET models, 40 column and 80 column, with 8K RAM or more (also runs on C64 for green on black nostalgia; also runs on Plus/4, 16, etc. recommend COLOR 0,1,1 : COLOR 4,1,1: COLOR 1,6,6 : REM for green on black; also runs on Vic-20 in B/W)
 * SNAKE64 runs on ROM revisions 1, 2, 3 assumes screen memory is at 1024, and also runs on C128 40 column screen (but slower) -- not designed for 80 column C128 screen
 * SNAKETED should run on all Plus/4, 16, etc. systems
 

@@ -8,6 +8,8 @@ Blog entry: [Snake for Commodore PET, Vic-20, 64, 16, Plus/4, etc.](https://tech
 
 PRG and D64 files are included
 
+Alternative Web Version --> [live trial](https://davervw.github.io/cbmish-script/?button=Snake)
+
 MIT License
 
 Instructions:
